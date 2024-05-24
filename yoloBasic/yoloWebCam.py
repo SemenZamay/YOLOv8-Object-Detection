@@ -4,7 +4,7 @@ import cvzone
 import math
 
 # cap = cv2.VideoCapture(0)   # For Webcam
-cap = cv2.VideoCapture("video/los_angeles.mp4")   # For video
+cap = cv2.VideoCapture("videos/los_angeles.mp4")   # For video
 #cap.set(3, 1280)
 #cap.set(4, 720)
 
